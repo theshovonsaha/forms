@@ -96,6 +96,7 @@ I implemented a hybrid approach to validation:
 
 - Add unit tests for validation logic
 - Implement end-to-end testing
+- Convert into a standalone validation service that can be implemented across different frameworks and applications
 
 ## Running the Project
 
