@@ -101,3 +101,9 @@ I implemented a hybrid approach to validation:
 
 1. Clone the repository
 2. Open `index.html` in your browser
+
+## References
+
+- [MDN Form Validation Guide](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation)
+- [Chrome DevTools Network Analysis](https://developers.google.com/web/tools/chrome-devtools/network)
+- [Web Form Best Practices](https://www.w3.org/WAI/tutorials/forms/)
